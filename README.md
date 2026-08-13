@@ -8,7 +8,7 @@ A modern, clean, and intuitive mobile application UI/UX concept designed for **W
 
 | 1. Splash Screen | 2. Home Screen | 3. Menu Screen | 4. Cart & Checkout |
 | :---: | :---: | :---: | :---: |
-| <img src="iMockup - iPhone 14 loading.jpg" width="200"/> | <img src="iMockup - iPhone 14 home.jpg" width="200"/> | <img src="iMockup - iPhone 14.jpg" width="200"/> | <img src="iMockup - iPhone 14 pay.jpg" width="200"/> |
+| <img src="loading.png" width="200"/> | <img src="home.png" width="200"/> | <img src="product.png" width="200"/> | <img src="payment.png" width="200"/> |
 
 ---
 
